@@ -1,0 +1,15 @@
+C:\Users\Main\Desktop\Schule 2022-23\SWP_Rubner\4BHWII_Khakhlou_Rubner\EndRekursion\EndRekursion\bin\Debug\net6.0\EndRekursion.exe
+C:\Users\Main\Desktop\Schule 2022-23\SWP_Rubner\4BHWII_Khakhlou_Rubner\EndRekursion\EndRekursion\bin\Debug\net6.0\EndRekursion.deps.json
+C:\Users\Main\Desktop\Schule 2022-23\SWP_Rubner\4BHWII_Khakhlou_Rubner\EndRekursion\EndRekursion\bin\Debug\net6.0\EndRekursion.runtimeconfig.json
+C:\Users\Main\Desktop\Schule 2022-23\SWP_Rubner\4BHWII_Khakhlou_Rubner\EndRekursion\EndRekursion\bin\Debug\net6.0\EndRekursion.dll
+C:\Users\Main\Desktop\Schule 2022-23\SWP_Rubner\4BHWII_Khakhlou_Rubner\EndRekursion\EndRekursion\bin\Debug\net6.0\EndRekursion.pdb
+C:\Users\Main\Desktop\Schule 2022-23\SWP_Rubner\4BHWII_Khakhlou_Rubner\EndRekursion\EndRekursion\obj\Debug\net6.0\EndRekursion.csproj.AssemblyReference.cache
+C:\Users\Main\Desktop\Schule 2022-23\SWP_Rubner\4BHWII_Khakhlou_Rubner\EndRekursion\EndRekursion\obj\Debug\net6.0\EndRekursion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Main\Desktop\Schule 2022-23\SWP_Rubner\4BHWII_Khakhlou_Rubner\EndRekursion\EndRekursion\obj\Debug\net6.0\EndRekursion.AssemblyInfoInputs.cache
+C:\Users\Main\Desktop\Schule 2022-23\SWP_Rubner\4BHWII_Khakhlou_Rubner\EndRekursion\EndRekursion\obj\Debug\net6.0\EndRekursion.AssemblyInfo.cs
+C:\Users\Main\Desktop\Schule 2022-23\SWP_Rubner\4BHWII_Khakhlou_Rubner\EndRekursion\EndRekursion\obj\Debug\net6.0\EndRekursion.csproj.CoreCompileInputs.cache
+C:\Users\Main\Desktop\Schule 2022-23\SWP_Rubner\4BHWII_Khakhlou_Rubner\EndRekursion\EndRekursion\obj\Debug\net6.0\EndRekursion.dll
+C:\Users\Main\Desktop\Schule 2022-23\SWP_Rubner\4BHWII_Khakhlou_Rubner\EndRekursion\EndRekursion\obj\Debug\net6.0\refint\EndRekursion.dll
+C:\Users\Main\Desktop\Schule 2022-23\SWP_Rubner\4BHWII_Khakhlou_Rubner\EndRekursion\EndRekursion\obj\Debug\net6.0\EndRekursion.pdb
+C:\Users\Main\Desktop\Schule 2022-23\SWP_Rubner\4BHWII_Khakhlou_Rubner\EndRekursion\EndRekursion\obj\Debug\net6.0\EndRekursion.genruntimeconfig.cache
+C:\Users\Main\Desktop\Schule 2022-23\SWP_Rubner\4BHWII_Khakhlou_Rubner\EndRekursion\EndRekursion\obj\Debug\net6.0\ref\EndRekursion.dll

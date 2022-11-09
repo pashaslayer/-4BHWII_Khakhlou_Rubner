@@ -26,12 +26,12 @@
 
     public static String IterativeFactroial(int n)
     {   
-        int p = 1;
+        int sum = 1;
         while(n > 1)
         {
-            p = p * n;
+            sum = sum * n;
             n--;
         }
-        return "Iterative Lösung " + p;
+        return "Iterative Lösung " + sum;
     }
 }
