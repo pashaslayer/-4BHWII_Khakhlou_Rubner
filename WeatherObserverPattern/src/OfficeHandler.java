@@ -1,8 +1,9 @@
+import java.util.ArrayList;
 import java.util.List;
 
 public abstract class OfficeHandler {
 
-    public List<Subscriber> subscribers;
+    List<Subscriber> subscribers = new ArrayList<>();
 
     public void addSubscription(Subscriber subscriber){
         this.subscribers.add(subscriber);

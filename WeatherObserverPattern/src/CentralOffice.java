@@ -9,6 +9,8 @@ public class CentralOffice extends OfficeHandler{
     public void setActualData(Data data){
         this.mesData = data;
         // Nach Veränderung müssen die users notifiziert werden
+
+        // PUSH - Variante
         sendData(data);
     }
 
