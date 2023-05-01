@@ -4,7 +4,7 @@ public class Data {
     private int humidity;
 
     public String getData(){
-        return "Temperature: " + this.temperature + "\nHumidity: " + this.humidity;
+        return "\nTemperature: " + this.temperature + "\nHumidity: " + this.humidity;
     }
 
 }

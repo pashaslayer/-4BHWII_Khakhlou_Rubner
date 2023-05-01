@@ -1,6 +1,6 @@
 import java.util.List;
 
-public class OfficeHandler {
+public abstract class OfficeHandler {
 
     public List<Subscriber> subscribers;
 
